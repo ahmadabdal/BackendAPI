@@ -1,0 +1,20 @@
+{
+    "Stockitems": [
+        {
+            "StockItem": "1",
+            "Unit": "nos",
+            "Igroup": "StockGroup1",
+            "ICategory": "StockCategoy1",
+            "HSN OR SAC": 90700,
+            "taxRate": "18"
+        },
+        {
+            "StockItem": "2",
+            "Unit": "nos",
+            "Igroup": "StockGroup2",
+            "ICategory": "StockCategoy2",
+            "HSN OR SAC": 90700,
+            "taxRate": "18"
+        }
+    ]
+}
